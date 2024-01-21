@@ -24,6 +24,12 @@ h1 {
     font-size: 28px;
     text-transform: uppercase;
   }
+  section, footer {
+    padding: 2px 10px;
+  }
+  ul {
+    margin: 0px;
+  }
 
   #copyright {
     text-align: center;
