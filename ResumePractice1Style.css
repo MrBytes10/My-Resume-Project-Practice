@@ -34,6 +34,15 @@ h2 {
     text-transform: uppercase;
   }
 
+  li b {
+    color: #2F5A78;
+    list-style-type: square;
+    list-style-position: inside;
+  }
+  li {
+    margin-bottom: 5px;
+  } 
+
   #copyright {
     text-align: center;
   }
